@@ -25,6 +25,10 @@ var ScreenMenu = cc.Layer.extend({
         this.addChild(btnDragonbones);
         btnDragonbones.addClickEventListener(this.onSelectDragonbones.bind(this));
 
+        var btnSpaceGame = gv.commonButton(200, 64, cc.winSize.width/2, size.height/3 ,"Space Game");
+        this.addChild(btnSpaceGame);
+        btnSpaceGame.addClickEventListener(this.onSelectSpaceGame.bind(this));
+
     },
     onEnter:function(){
         this._super();
@@ -40,6 +44,10 @@ var ScreenMenu = cc.Layer.extend({
     onSelectDragonbones:function(sender)
     {
         fr.view(ScreenDragonbones);
-    }
+    },
 
+    onSelectSpaceGame:function(sender)
+    {
+        fr.view(ScreenSpaceGame);
+    },
 });
