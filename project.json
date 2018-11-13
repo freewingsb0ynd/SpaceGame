@@ -36,6 +36,7 @@
         "src/libs/signals.js",
         "src/libs/underscore.js",
         "src/modules/animation/ScreenDragonbones.js",
+        "src/modules/spacegame/ScreenSpaceGame.js",
         "src/modules/localization/ScreenLocalization.js",
         "src/modules/mainmenu/ScreenMenu.js",
         "src/modules/testnetwork/network/Network.js",

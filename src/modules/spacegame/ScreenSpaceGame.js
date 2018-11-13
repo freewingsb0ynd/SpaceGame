@@ -26,16 +26,17 @@ var ScreenSpaceGame = cc.Layer.extend({
         this.addChild(btnEnglish);
         btnEnglish.addClickEventListener(this.onSelectEnglish.bind(this));
 
-        var btnBack = gv.commonButton(100, 64, size.width - 70, 52,"Back");
-        this.addChild(btnBack);
-        btnBack.addClickEventListener(this.onSelectBack.bind(this));
-
         var lblHello = gv.commonText(fr.Localization.text("lang_hello"), size.width*0.4, size.height*0.8);
         this.addChild(lblHello);
 
         var lblDemo = gv.commonText(fr.Localization.text("lang_auto_text"), size.width*0.4, size.height*0.5);
         this.addChild(lblDemo);
 
+
+
+        var btnBack = gv.commonButton(100, 64, size.width - 70, 52,"Back");
+        this.addChild(btnBack);
+        btnBack.addClickEventListener(this.onSelectBack.bind(this));
     },
     onEnter:function(){
         this._super();

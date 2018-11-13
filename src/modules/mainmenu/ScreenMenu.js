@@ -45,7 +45,6 @@ var ScreenMenu = cc.Layer.extend({
     {
         fr.view(ScreenDragonbones);
     },
-
     onSelectSpaceGame:function(sender)
     {
         fr.view(ScreenSpaceGame);
