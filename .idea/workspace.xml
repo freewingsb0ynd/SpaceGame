@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4d55f2b-12a8-484d-a811-f49e89a3e91c" name="Default" comment="">
+    <list default="true" id="e4d55f2b-12a8-484d-a811-f49e89a3e91c" name="Default" comment="init simulator&#10;&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/ApplyForces.cl" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/ApplyForces.cl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/android/mozilla/Alignment.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/android/mozilla/Alignment.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/ios/mozilla/Alignment.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/ios/mozilla/Alignment.h" />
@@ -234,7 +234,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/recast/DetourTileCache/DetourTileCache.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/recast/DetourTileCache/DetourTileCache.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/recast/DetourTileCache/DetourTileCacheBuilder.cpp" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/recast/DetourTileCache/DetourTileCacheBuilder.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/recast/DetourTileCache/DetourTileCacheBuilder.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/recast/DetourTileCache/DetourTileCacheBuilder.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/debugger/DevToolsUtils.js" afterPath="$PROJECT_DIR$/simulator/win32/script/debugger/DevToolsUtils.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/android/mozilla/Endian.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/android/mozilla/Endian.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/ios/mozilla/Endian.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/ios/mozilla/Endian.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/linux/mozilla/Endian.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/linux/mozilla/Endian.h" />
@@ -487,7 +486,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/wp_8.1/js/PropertyKey.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/wp_8.1/js/PropertyKey.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/README.md" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/tools/fbx-conv/README.md" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/tools/fbx-conv/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/debugger/README.md" afterPath="$PROJECT_DIR$/simulator/win32/script/debugger/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/winrt-specific/zlib/include/README.txt" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/winrt-specific/zlib/include/README.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/android/mozilla/Range.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/android/mozilla/Range.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/ios/mozilla/Range.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/ios/mozilla/Range.h" />
@@ -574,6 +572,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/win32/mozilla/Scoped.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/win32/mozilla/Scoped.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/winrt_8.1/mozilla/Scoped.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/winrt_8.1/mozilla/Scoped.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/wp_8.1/mozilla/Scoped.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/wp_8.1/mozilla/Scoped.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/modules/spacegame/ScreenSpaceGame.js" afterPath="$PROJECT_DIR$/src/modules/spacegame/ScreenSpaceGame.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/SequentialThreadSupport.cpp" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/SequentialThreadSupport.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/SequentialThreadSupport.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/SequentialThreadSupport.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/win10-specific/angle/include/GLSLANG/ShaderLang.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/win10-specific/angle/include/GLSLANG/ShaderLang.h" />
@@ -783,8 +782,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/Win32ThreadSupport.cpp" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/Win32ThreadSupport.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/Win32ThreadSupport.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/Win32ThreadSupport.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/win32/mozilla/WindowsVersion.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/win32/mozilla/WindowsVersion.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/action-1.x.js" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/action-1.x.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/action-2.x.js" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/action-2.x.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/poly2tri/sweep/advancing_front.cc" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/poly2tri/sweep/advancing_front.cc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/poly2tri/sweep/advancing_front.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/poly2tri/sweep/advancing_front.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/win32-specific/OpenalSoft/include/AL/al.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/win32-specific/OpenalSoft/include/AL/al.h" />
@@ -1272,7 +1269,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/win32-specific/OggDecoder/include/vorbis/codec.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/win32-specific/OggDecoder/include/vorbis/codec.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/winrt_8.1-specific/OggDecoder/include/vorbis/codec.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/winrt_8.1-specific/OggDecoder/include/vorbis/codec.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/wp_8.1-specific/OggDecoder/include/vorbis/codec.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/wp_8.1-specific/OggDecoder/include/vorbis/codec.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/compatible.js" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/compatible.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/chipmunk/include/chipmunk/cpArbiter.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/chipmunk/include/chipmunk/cpArbiter.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/chipmunk/include/chipmunk/cpBB.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/chipmunk/include/chipmunk/cpBB.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/chipmunk/include/chipmunk/cpBody.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/chipmunk/include/chipmunk/cpBody.h" />
@@ -1855,44 +1851,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/win32/jsapi.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/win32/jsapi.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/winrt_8.1/jsapi.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/winrt_8.1/jsapi.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/wp_8.1/jsapi.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/wp_8.1/jsapi.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_audioengine.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_audioengine.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_boot.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_boot.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/ccui/jsb_ccui_create_apis.js" afterPath="$PROJECT_DIR$/simulator/win32/script/ccui/jsb_ccui_create_apis.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/ccui/jsb_ccui_deprecated.js" afterPath="$PROJECT_DIR$/simulator/win32/script/ccui/jsb_ccui_deprecated.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/ccui/jsb_ccui_property_apis.js" afterPath="$PROJECT_DIR$/simulator/win32/script/ccui/jsb_ccui_property_apis.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/ccui/jsb_ccui_property_impls.js" afterPath="$PROJECT_DIR$/simulator/win32/script/ccui/jsb_ccui_property_impls.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/chipmunk/jsb_chipmunk.js" afterPath="$PROJECT_DIR$/simulator/win32/script/chipmunk/jsb_chipmunk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/chipmunk/jsb_chipmunk_constants.js" afterPath="$PROJECT_DIR$/simulator/win32/script/chipmunk/jsb_chipmunk_constants.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_cocos2d.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_cocos2d.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/3d/jsb_cocos2d_3d.js" afterPath="$PROJECT_DIR$/simulator/win32/script/3d/jsb_cocos2d_3d.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/3d/jsb_cocos2d_3d_ext.js" afterPath="$PROJECT_DIR$/simulator/win32/script/3d/jsb_cocos2d_3d_ext.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_cocos2d_constants.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_cocos2d_constants.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/extension/jsb_cocos2d_extension.js" afterPath="$PROJECT_DIR$/simulator/win32/script/extension/jsb_cocos2d_extension.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/studio/jsb_cocos2d_studio.js" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/jsb_cocos2d_studio.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/ccui/jsb_cocos2d_ui.js" afterPath="$PROJECT_DIR$/simulator/win32/script/ccui/jsb_cocos2d_ui.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_cocosbuilder.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_cocosbuilder.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_common.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_create_apis.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_create_apis.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_debugger.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_debugger.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_deprecated.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_deprecated.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/extension/jsb_ext_create_apis.js" afterPath="$PROJECT_DIR$/simulator/win32/script/extension/jsb_ext_create_apis.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/extension/jsb_ext_property_apis.js" afterPath="$PROJECT_DIR$/simulator/win32/script/extension/jsb_ext_property_apis.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_loaders.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_loaders.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/navmesh/jsb_navmesh.js" afterPath="$PROJECT_DIR$/simulator/win32/script/navmesh/jsb_navmesh.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_opengl.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_opengl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_opengl_constants.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_opengl_constants.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/physics3d/jsb_physics3d.js" afterPath="$PROJECT_DIR$/simulator/win32/script/physics3d/jsb_physics3d.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/physicsSprite/jsb_physicsSprite.js" afterPath="$PROJECT_DIR$/simulator/win32/script/physicsSprite/jsb_physicsSprite.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_pool.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_pool.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_prepare.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_prepare.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_property_apis.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_property_apis.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_property_impls.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_property_impls.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/jsb_spine.js" afterPath="$PROJECT_DIR$/simulator/win32/script/jsb_spine.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/studio/jsb_studio_boot.js" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/jsb_studio_boot.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/studio/jsb_studio_create_apis.js" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/jsb_studio_create_apis.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/studio/jsb_studio_load.js" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/jsb_studio_load.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/studio/jsb_studio_property_apis.js" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/jsb_studio_property_apis.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/android/jsbytecode.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/android/jsbytecode.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/ios/jsbytecode.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/ios/jsbytecode.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/linux/jsbytecode.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/linux/jsbytecode.h" />
@@ -1977,7 +1935,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/wp_8.1/jswrapper.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/spidermonkey/include/wp_8.1/jswrapper.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/win10-specific/angle/include/KHR/khrplatform.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/win10-specific/angle/include/KHR/khrplatform.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/winrt-specific/angle/include/KHR/khrplatform.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/winrt-specific/angle/include/KHR/khrplatform.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/lang" afterPath="$PROJECT_DIR$/simulator/win32/lang" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/Box2D/proj.win8.1-universal/libbox2d.Shared/libbox2d.Shared.vcxitems.filters" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/Box2D/proj.win8.1-universal/libbox2d.Shared/libbox2d.Shared.vcxitems.filters" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/Box2D/proj.win8.1-universal/libbox2d.Shared/libbox2d.Shared.vcxitems" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/Box2D/proj.win8.1-universal/libbox2d.Shared/libbox2d.Shared.vcxitems" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/Box2D/proj.win8.1-universal/libbox2d.Windows/libbox2d.Windows.vcxproj.filters" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/Box2D/proj.win8.1-universal/libbox2d.Windows/libbox2d.Windows.vcxproj.filters" />
@@ -2016,7 +1973,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/websockets/include/win32/libwebsockets.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/websockets/include/win32/libwebsockets.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/websockets/include/winrt_8.1/libwebsockets.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/websockets/include/winrt_8.1/libwebsockets.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/websockets/include/wp_8.1/libwebsockets.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/websockets/include/wp_8.1/libwebsockets.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/debugger/main.js" afterPath="$PROJECT_DIR$/simulator/win32/script/debugger/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/vectormath/neon/mat_aos.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/vectormath/neon/mat_aos.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/vectormath/scalar/mat_aos.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/vectormath/scalar/mat_aos.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/vectormath/sse/mat_aos.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/vectormath/sse/mat_aos.h" />
@@ -2059,15 +2015,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/poly2tri/poly2tri.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/poly2tri/poly2tri.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/websockets/include/winrt_8.1/private-libwebsockets.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/websockets/include/winrt_8.1/private-libwebsockets.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/websockets/include/wp_8.1/private-libwebsockets.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/websockets/include/wp_8.1/private-libwebsockets.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/debugger/core/promise.js" afterPath="$PROJECT_DIR$/simulator/win32/script/debugger/core/promise.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/freetype2/include/win32/freetype2/internal/psaux.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/freetype2/include/win32/freetype2/internal/psaux.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/freetype2/include/win32/freetype2/internal/pshints.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/freetype2/include/win32/freetype2/internal/pshints.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/vectormath/neon/quat_aos.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/vectormath/neon/quat_aos.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/vectormath/scalar/quat_aos.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/vectormath/scalar/quat_aos.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/vectormath/sse/quat_aos.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/bullet/vectormath/sse/quat_aos.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/debugger/actors/root.js" afterPath="$PROJECT_DIR$/simulator/win32/script/debugger/actors/root.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/scene-1.x.js" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/scene-1.x.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/debugger/actors/script.js" afterPath="$PROJECT_DIR$/simulator/win32/script/debugger/actors/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/freetype2/include/win32/freetype2/internal/sfnt.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/freetype2/include/win32/freetype2/internal/sfnt.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/poly2tri/common/shapes.cc" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/poly2tri/common/shapes.cc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/poly2tri/common/shapes.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/poly2tri/common/shapes.h" />
@@ -2138,11 +2090,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/tiff/include/linux/tiffvers.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/tiff/include/linux/tiffvers.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/tiff/include/mac/tiffvers.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/tiff/include/mac/tiffvers.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/tiff/include/win32/tiffvers.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/tiff/include/win32/tiffvers.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/timelineParser-1.x.js" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/timelineParser-1.x.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/timelineParser-2.x.js" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/timelineParser-2.x.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/tinyxml2/tinyxml2.cpp" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/tinyxml2/tinyxml2.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/tinyxml2/tinyxml2.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/tinyxml2/tinyxml2.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/debugger/transport.js" afterPath="$PROJECT_DIR$/simulator/win32/script/debugger/transport.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/freetype2/include/android/freetype2/ttnameid.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/freetype2/include/android/freetype2/ttnameid.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/freetype2/include/ios/freetype2/ttnameid.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/freetype2/include/ios/freetype2/ttnameid.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/freetype2/include/linux/freetype/ttnameid.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/freetype2/include/linux/freetype/ttnameid.h" />
@@ -2187,7 +2136,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/webp/include/linux/types.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/webp/include/linux/types.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/webp/include/mac/types.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/webp/include/mac/types.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/webp/include/win32/types.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/webp/include/win32/types.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/uiParser-1.x.js" afterPath="$PROJECT_DIR$/simulator/win32/script/studio/parsers/uiParser-1.x.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/unzip/unzip.cpp" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/unzip/unzip.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/unzip/unzip.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/unzip/unzip.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-x/external/chipmunk/include/chipmunk/constraints/util.h" afterPath="$PROJECT_DIR$/frameworks/cocos2d-x/external/chipmunk/include/chipmunk/constraints/util.h" />
@@ -2289,11 +2237,24 @@
       <file leaf-file-name="ScreenSpaceGame.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/modules/spacegame/ScreenSpaceGame.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.874502">
-              <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.6162019">
+              <caret line="57" column="64" selection-start-line="57" selection-start-column="64" selection-end-line="57" selection-end-column="64" />
               <folding>
                 <element signature="e#0#50#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sprites.plist" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/space game/Spritesheets/Sprites.plist">
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="11.965517">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -2333,16 +2294,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ScreenNetwork.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/modules/testnetwork/ScreenNetwork.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -2466,8 +2417,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1378" />
-    <option name="height" value="780" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -2495,6 +2446,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2624,8 +2577,18 @@
               <option name="myItemId" value="simulator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="win32" />
+              <option name="myItemId" value="SpaceGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpaceGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2639,7 +2602,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="simulator" />
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="space game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spritesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpaceGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpaceGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="space game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2659,9 +2648,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3096,7 +3083,9 @@
       <workItem from="1542012405014" duration="1376000" />
       <workItem from="1542016745880" duration="1032000" />
       <workItem from="1542110549310" duration="1468000" />
-      <workItem from="1542263473446" duration="63000" />
+      <workItem from="1542263473446" duration="401000" />
+      <workItem from="1542876023932" duration="319000" />
+      <workItem from="1542928688913" duration="4288000" />
     </task>
     <task id="LOCAL-00001" summary="init2&#10;">
       <created>1542016777500</created>
@@ -3104,11 +3093,17 @@
       <option name="project" value="LOCAL" />
       <updated>1542016777500</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init simulator&#10;&#10;">
+      <created>1542263827407</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542263827407</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1601461000" />
+    <option name="totallyTimeSpent" value="1606406000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -3120,20 +3115,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="780" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22941822" sideWeight="0.4892704" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21013413" sideWeight="0.7701909" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20871328" sideWeight="0.7739583" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21013413" sideWeight="0.2298091" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20871328" sideWeight="0.22604166" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284055" sideWeight="0.49580714" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24082232" sideWeight="0.4945946" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24010417" sideWeight="0.4945946" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24921136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -3164,7 +3159,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init2&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="init2&#10;" />
+    <MESSAGE value="init simulator&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="init simulator&#10;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3200,14 +3196,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/framework/AnimationMgr.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/modules/animation/ScreenDragonbones.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3603,10 +3591,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/res/space game/Spritesheets/Sprites.plist">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="11.965517">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/modules/spacegame/ScreenSpaceGame.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.874502">
-          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.6162019">
+          <caret line="57" column="64" selection-start-line="57" selection-start-column="64" selection-end-line="57" selection-end-column="64" />
           <folding>
             <element signature="e#0#50#0" expanded="false" />
           </folding>
