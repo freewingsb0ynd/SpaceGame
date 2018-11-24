@@ -49,13 +49,14 @@ var ScreenSpaceGame = cc.Layer.extend({
 
         //var _batchNode = new cc.SpriteBatchNode("Sprites.pvr.ccz");
         //this.addChild(_batchNode);
-        //cc.SpriteFrameCache.sharedSpriteFrameCache().addSpriteFramesWithFile("Sprites.plist");
-
-        var cache = cc.SpriteFrameCache.getInstance();
+        cc.spriteFrameCache.addSpriteFrames("./res/space game/Spritesheets/Sprites.plist");
+        //cc.spriteFrameCache.addSpriteFrames(res.b01_plist);
+        //var cache = cc.SpriteFrameCache.getInstance();
         /*addSpriteFrameWithFile("./res/space game/Sprites.plist");*/
-        cache.addSpriteFrames("./res/space game/Sprites.plist", "./res/space game/Sprites.pvr.ccz");
+        //cache.addSpriteFrames("./res/space game/Spritesheets/Sprites.plist", "./res/space game/Spritesheets/Sprites.pvr.ccz");
 
-        var _ship = cc.Sprite.createWithSpriteFrameName("SpaceFlier_sm_1.png");
+        var _ship = cc.Sprite("#SpaceFlier_sm_1.png");
+            //createWithSpriteFrameName("SpaceFlier_sm_1.png");
 
 
         _ship.setPosition(cc.p(size.width * 0.1, size.height * 0.5));
